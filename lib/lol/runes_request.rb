@@ -1,7 +1,7 @@
 module Lol
   # Bindings for the Runes API.
   #
-  # See: https://developer.riotgames.com/api-methods/#runes-v3
+  # See: https://developer.riotgames.com/api-methods/#runes-v4
   class RunesRequest < Request
     # Get rune pages for a given summoner ID
     # @param [Integer] summoner_id Summoner ID

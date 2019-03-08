@@ -1,7 +1,7 @@
 module Lol
   # Bindings for the League API.
   #
-  # See: https://developer.riotgames.com/api-methods/#league-v3
+  # See: https://developer.riotgames.com/api-methods/#league-v4
   class LeagueRequest < Request
     # @!visibility private
     def api_base_path

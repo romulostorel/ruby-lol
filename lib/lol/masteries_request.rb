@@ -1,7 +1,7 @@
 module Lol
   # Bindings for the Masteries API.
   #
-  # See: https://developer.riotgames.com/api-methods/#masteries-v3
+  # See: https://developer.riotgames.com/api-methods/#masteries-v4
   class MasteriesRequest < Request
     # Get mastery pages for a given summoner ID
     # @param [Integer] summoner_id Summoner ID

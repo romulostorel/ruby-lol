@@ -6,7 +6,7 @@ include Lol
 describe LeagueRequest do
   subject { LeagueRequest.new 'api_key', 'euw' }
 
-  it 'inherits from V3 Request' do
+  it 'inherits from v4 Request' do
     expect(LeagueRequest).to be < Request
   end
 

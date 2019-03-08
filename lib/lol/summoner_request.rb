@@ -1,7 +1,7 @@
 module Lol
   # Bindings for the Summoner API.
   #
-  # See: https://developer.riotgames.com/api-methods/#summoner-v3
+  # See: https://developer.riotgames.com/api-methods/#summoner-v4
   class SummonerRequest < Request
     # @!visibility private
     def api_base_path

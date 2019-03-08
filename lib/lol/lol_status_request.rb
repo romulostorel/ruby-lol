@@ -1,7 +1,7 @@
 module Lol
   # Bindings for the Status API.
   #
-  # See: https://developer.riotgames.com/api-methods/#lol-status-v3
+  # See: https://developer.riotgames.com/api-methods/#lol-status-v4
   class LolStatusRequest < Request
     # @!visibility private
     def api_base_path
